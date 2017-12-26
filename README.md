@@ -8,3 +8,9 @@ Here, learn concepts and programming on IOTA ledger.
 * IOTA Python API - https://iota.readme.io/v1.2.0/reference
 * PYOTA: IOTA for Python dev - see [Github](https://github.com/iotaledger/iota.lib.py).
 
+## Interviews, Talks
+* 
+
+## References
+* Tangle Blog - http://www.tangleblog.com/
+
